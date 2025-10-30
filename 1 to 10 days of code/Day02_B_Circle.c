@@ -1,4 +1,4 @@
-//Q4: Write a program to calculate the area and circumference of a circle given its radius.//
+//Q4: Write a program to calculate the area and circumference of a circle given its radius.
 #include <stdio.h>
 int main() {
     float radius, area, circumference;
@@ -12,3 +12,4 @@ int main() {
 
     return 0;
 }
+
